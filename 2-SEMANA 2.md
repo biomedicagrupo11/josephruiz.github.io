@@ -3,6 +3,23 @@
 
 # Tecnología aplicada en utensilios
 
+## [Liftware](https://www.liftware.com/)
+
+Su funcionalidad es gracias a un acelerómetro y diversos algoritmos para contrarrestar el movimiento. El mango estabilizador contiene sensores que detectan el cambio de movimiento 
+
+## Pros del dispositivo
+  - Contrarresta los temblores en un 70% en posteriores pruebas hasta un 76%
+  - El utensilio es intercambiable, así con el mismo mango puedes tener cuchara tenedor, cuchara de sopa y spork.
+  - Las condiciones que pueden contribuir al temblor de la mano incluyen la enfermedad de Parkinson y el temblor esencial.
+  - Se adapta a los diferentes grados: leve, moderado y severo.
+  - Aunque es a batería viene incluido con su propio cargador y su estuche de utensilios.
+
+## Contras del dispositivo
+  - Su precio es de 295 dólares que equilave a 971.85 soles sin contar el costo de envió ni accesorios como otros archivos (utensilios aparte como tenedor o el spork), estos cuestan 34.95 dólares cada uno, solo en utensilios serían 115.09 soles más.
+  - Su cargador es único, su base viene solo con el producto, no hay iguales, no hay repuestos
+  - Los kits y los utensilios se compran por separado
+  - El paciente no debe de sobrecargar la cuchara, ya que los temblores residuales podrían hacer saltar la comida
+
 ##  [ARC pen](https://www.hwansoojeon.com/arc)
  
  Pluma terapéutica para personas con enfermedad de Parkinson
@@ -12,6 +29,7 @@ Es importante que las personas con la enfermedad de Parkinson satisfagan no solo
 ## Pros  del dispositivo.
    - El cargador es por inducción (se puede cargar con cualquier cargador).
    - Mejora la escritura en un 86% más grande y es más suave el trazo.
+   - Gracias a su pagina web podemos informarnos acerca del mecanismo y usarlo para futuros proyectos contra esta enfermedad.
    
 ## Contras del dispositivo
    - Aún está en estado de prueba por ende aún no sale al mercado.
@@ -24,6 +42,7 @@ El bastón es capaz de detectar cuando se produce el congelamiento de la marcha 
  
 ## Pros  del dispositivo.
    - El dispositivo es muy aclamado y promete ser una gran ayuda para los enfermos de Parkinson
+   - Previene las caidas debido al congelamiento de la marcha
    
 ## Contras del dispositivo
    - Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
@@ -91,7 +110,19 @@ Path Finder proporciona señales visuales desde la parte delantera de los pies. 
   - A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
   - Aunque los gráficos muestran buenos resultados el número de sujetos aun es reducido como para sacar conclusiones.
 
+## [GYRO GLOVE](https://gyrogear.co/gyroglove)
 
+Es una tecnología portátil actualmente en desarrollo que controla los movimientos del parkinson a traves de giroscopios, estos discos giratorios contrarrestan cualquier entrada de fuerza de forma instantánea y proporcional. Es pequeño y liviano con un arnés desmontable. 
+
+## Pros del dispositivo
+  - Mejora estos temblores hasta un 80 %
+  - Ayuda en multiples actividades.
+  - Las actividades comunes del día a día ya no seran un problema.
+
+## Contras del dispositivo
+  - Inconmodidad.
+  - Aun no a sido probado y se encuentra en desarrollo.
+  
    
    
 # Requerimientos de nuestro  proyecto
