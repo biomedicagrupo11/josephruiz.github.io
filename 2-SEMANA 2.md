@@ -1,4 +1,7 @@
 # El estado del arte
+Últimos dispositivos que podrían ayudar a mejorar la calidad de vida de pacientes con parkinson. 
+
+# Tecnología aplicada en utensilios
 
 ##  [ARC pen](https://www.hwansoojeon.com/arc)
  
@@ -6,68 +9,94 @@
 Es importante que las personas con la enfermedad de Parkinson satisfagan no solo las necesidades básicas, sino también un nivel más alto de ellas. La micrografía afecta hasta al 63% de las personas con Parkinson, lo que se debe a la lentitud del movimiento que disminuye la amplitud del movimiento repetitivo. Les hace tener dificultades para escribir a mano, lo que daña la autoestima y resulta en depresión social. Arc usa la vibración que estimula los músculos clave de la mano y reduce el esfuerzo requerido para mover la pluma por el papel. La vibración de alta frecuencia en la pluma protege su identidad social y vanidad de los ojos de los demás. Restaurar la escritura previa significa que pueden recuperar su identidad y confianza previas en su vida.
 [Autor1](link)
  
- ## Pros  del dispositivo.
+## Pros  del dispositivo.
    - El cargador es por inducción (se puede cargar con cualquier cargador).
    - Mejora la escritura en un 86% más grande y es más suave el trazo.
- ## Contras del dispositivo
+   
+## Contras del dispositivo
    - Aún está en estado de prueba por ende aún no sale al mercado.
    - Tampoco se a mostrado la aceptación del público.
    
-## [BASTON INTELIGENTE ](link)
+## [BASTON INTELIGENTE ](https://infotiti.com/2016/05/baston-inteligente-parkinson/)
 
 El bastón es capaz de detectar cuando se produce el congelamiento de la marcha en el enfermo de párkinson y emitir una vibración que ayuda a la persona a reiniciar el movimiento.
  Los enfermos que padecen esta alteración la describen como si sus pies quedaran pegados al suelo; el movimiento se detiene y las caídas son muy frecuentes. Se ha encontrado una disminución en la duración de los episodios de freezing.
  
- ## Pros  del dispositivo.
+## Pros  del dispositivo.
    - El dispositivo es muy aclamado y promete ser una gran ayuda para los enfermos de Parkinson
- ## Contras del dispositivo
-   -Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
+   
+## Contras del dispositivo
+   - Aun está en desarrollo así que no hay ninguna estimación de precios ni especificaciones del producto
 
-## [BUTOON HOOK](link)
+## [BUTOON HOOK](https://www.essentialaids.com/good-grips-button-hook.html)
 
 Teniendo en cuenta que el paciente con Parkinson tiene problemas en el día a día  se logró que estos puedan abrochonarse los botones mediante un dispositivo,ya que los enfermos de Parkinson pierden fuerza en el agarre les cuesta mucho vestirse, el abrochador permite usar la fuerza de toda la mano para poder abotonarse en caso de usar camisas o zapatos con botones.
 
 
- ## Pros  del dispositivo. 
+## Pros  del dispositivo. 
    - Aunque el precio varía dependiendo de la marca, el promedio de estos productos es más que accesible al público en general.
- ## Contras del dispositivo
+   
+## Contras del dispositivo
    - La simplicidad del producto solo permite la solución a una actividad en específico. 
    
- ## [EMMA WATCH](link) 
+   
+# Tecnología wearable o "vestible"
+ 
+ 
+## [EMMA WATCH](https://www.microsoft.com/en-us/research/project/project-emma/) 
  
  Este dispositivo inteligente, que funciona con la ayuda de sensores, mejora el pulso al escribir. 
- Emma Watch es un prototipo de smartwatch -o reloj inteligente- que, con la ayuda de los sensores que integra, mejora el pulso al         escribir, haciendo legible el contenido.
+ Emma Watch es un prototipo de smartwatch -o reloj inteligente- que mejora el pulso al escribir, haciendo legible el contenido.
  
-  ## Pros  del dispositivo. 
-   - falta info
- ## Contras del dispositivo
-   - falta info
+## Pros  del dispositivo. 
+   - Contrarresta las vibraciones del parkinson haciendo que el paciente con parkinson logre escribir.
    
+## Contras del dispositivo
+   - Se centra en solo una actividad (escribir).
+  
    
-   ## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
+## [PATH FINDER](https://www.walkwithpath.com/path-finder-es) 
  
 Path Finder proporciona señales visuales desde la parte delantera de los pies. Esto está creado para poder combatir el Congelamiento de la Marcha (CdM), que se observa en el Parkinson y otras enfermedades
  
-  ## Pros  del dispositivo. 
-   - falta info
- ## Contras del dispositivo
-   - falta info
+## Pros  del dispositivo. 
+   - Ayuda al congelamiento de la marcha.
    
-   ## [ONE RING](http://oneringforpd.com/) 
+## Contras del dispositivo
+   - costo muy elevado para la simplicidad del dispositivo
+   
+## [ONE RING](http://oneringforpd.com/) 
  
  Procesamiento Inteligente de Señales
  Potente tecnología de aprendizaje automático
  
-  ## Pros  del dispositivo. 
-   - falta info
- ## Contras del dispositivo
-   - falta info
-   
-   
-   
-  # Requerimientos de nuestro  proyecto
+## Pros  del dispositivo. 
+  - Ayuda a conocer mejor la evolucion de la enfermedad del parkinson.
   
-  #  Tipos de Requerimiento
+## Contras del dispositivo
+  - No tiene beneficios inmediatos para el paciente que lo usa.
+   
+## [SPEECH VIVE](http://www.speechvive.com/)
+  
+  Dispositivo protésico diseñado para aumentar las funciones laríngeas y respiratorias de las personas con la enfermedad de Parkinson. Utilizando el dispositivo como un disparador externo, los pacientes experimentaron un aumento en los niveles de presión sonora (SPL), cambios en la frecuencia y en general aumentos en la inteligibilidad del habla. 
+  
+## Pros del dispositivo
+  - Soluciona el problema del bajo sonido que emiten las personas al hablar.
+  - La empresa ofrece capacitaciones para las personas que quieren ofrecer el producto, ya que se necesita preparación al paciente para usar el producto.
+  - La empresa también dispone de facilidades de pago así cualquiera está en la capacidad de obtenerlo.
+  
+## Contras del dispositivo
+  - No es muy distinto a un aparto de sordera.
+  - A pesar de las facilidades el precio es demasiado alto.
+  - A pesar de que al usarlo el paciente ya no debería ir a una clínica del habla, este aún debe tomar el tratamiento para saber usarla.
+  - Aunque los gráficos muestran buenos resultados el número de sujetos aun es reducido como para sacar conclusiones.
+
+
+   
+   
+# Requerimientos de nuestro  proyecto
+  
+#  Tipos de Requerimiento
 
 ## REQUERIMIENTOS DE NEGOCIO
    Definen los objetivos y problemas que queremos resolver con el producto. Deben estar basados en una necesidad real del usuario, sea      esta conocida o no por él. En nuestro caso queremos resolver el problema de temblores en la mano debido al parkinson.
@@ -87,8 +116,3 @@ Proporcionan detalle de como debe comportarse un producto y especifican lo que s
   
 
    
-
-
- 
-
-
