@@ -123,6 +123,28 @@ Es una tecnología portátil actualmente en desarrollo que controla los movimien
   - Inconmodidad.
   - Aun no a sido probado y se encuentra en desarrollo.
   
+## [Grace](LINK)
+ Posee varios electrodos que se colocan sobre los músculos para ayudar al usuario a controlar los movimientos involuntarios.
+ 
+ ## Pros del dispositivo
+  - El tamaño es parecido a un celular
+  - Ayuda en multiples actividades.
+  - Control de los movimientos
+
+## Contras del dispositivo
+  - El costo oscila entre los 1000 $.
+  
+## [All purpose grabber](LINK)
+ capturador multifuncional está diseñado para ayudarlo de manera cómoda y eficiente a recoger artículos difíciles de alcanzar, sin estirarse ni agacharse.
+ 
+ ## Pros del dispositivo
+  - Diseñado ergonómicamente y un gatillo suave.
+  - Permite el agarre de artículos pequeños. 
+  
+
+## Contras del dispositivo
+  -Solo tiene uso restrigido a alcance de objetos .
+  
    
    
 # Requerimientos de nuestro  proyecto
