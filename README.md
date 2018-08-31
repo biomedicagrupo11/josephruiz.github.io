@@ -17,7 +17,7 @@
 15. [CONCLUSION](15-CONCLUSION 15.md)
 16. [Referencias](6-J.md#referencias)
 # PÁGINA  DEL GRUPO 11 
-# DESARROLLANDO 
+# 
 
 
 
@@ -26,15 +26,15 @@
 
 --------------------
 
-# Título(NOMBRE DEL PROYECTO)
+# 
 
 # INTEGRANTES
 
--	ÑIQUE OLIVOS, ROBERT AURELIO ()
--	RUIZ MEDRANO, JOSEPH  ()
--	FERNANDEZ VILLAR, DANIEL  ()
--	RAMOS BOGARIN, KAREN JASMIN   ()
--	ROBLES SANTIVAÑEZ, ANGELA XIMENA   ()
+-	ÑIQUE OLIVOS, ROBERT AURELIO (Investigadores Principales)
+-	RUIZ MEDRANO, JOSEPH  (Página web)
+-	FERNANDEZ VILLAR, DANIEL  (Investigadores Principales)
+-	RAMOS BOGARIN, KAREN JASMIN   (Coordinadora)
+-	ROBLES SANTIVAÑEZ, ANGELA XIMENA   (Investigadores Principales)
 
 
 
